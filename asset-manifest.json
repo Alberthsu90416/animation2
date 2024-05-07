@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/animation2/static/css/main.e2559d52.css",
+    "main.js": "/animation2/static/js/main.fad38382.js",
+    "static/js/453.44768a2b.chunk.js": "/animation2/static/js/453.44768a2b.chunk.js",
+    "index.html": "/animation2/index.html",
+    "main.e2559d52.css.map": "/animation2/static/css/main.e2559d52.css.map",
+    "main.fad38382.js.map": "/animation2/static/js/main.fad38382.js.map",
+    "453.44768a2b.chunk.js.map": "/animation2/static/js/453.44768a2b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2559d52.css",
+    "static/js/main.fad38382.js"
+  ]
+}
