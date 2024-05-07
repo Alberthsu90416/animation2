@@ -1,0 +1,42 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html{
+  font-family: sans-serif;
+}
+
+body{
+  background: linear-gradient(to right, #2c5364, #203a43);
+}
+
+.App{
+ min-height: 100vh;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+
+.card{
+  background: white;
+  padding: 3rem, 5rem;
+ 
+}
+
+.card * {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  margin-left: 2rem;
+  margin-right: 2rem;  
+}
+
+.card p{
+  padding-top: 0rem;
+  line-height: 160%;
+}
+.expand{
+  width:35rem;
+}
